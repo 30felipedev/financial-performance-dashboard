@@ -5,6 +5,7 @@ The goal is to visualize metrics such as sales value, shipping cost, profit marg
 
 
 📷 Screenshot
+
 ![Dashboard Preview](imagem_2025-03-26_203312940.png)
 
 
